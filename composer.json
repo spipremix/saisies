@@ -1,0 +1,22 @@
+{
+    "name": "spipremix/saisies",
+    "homepage": "https://contrib.spip.net/Saisies",
+    "description": "Générer et manipuler plus facilement les champs des formulaires",
+    "type": "spip-plugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Matthieu Marcillaud",
+            "email": "marcimat@rezo.net"
+        },
+        {
+            "name": "RastaPopoulos",
+            "email": "rastapopoulos@spip.org"
+        },
+        {
+            "name": "Joseph Larmarange",
+            "email": "joseph@larmarange.net"
+        }
+    ],
+    "require": {}
+}
